@@ -1,1 +1,1 @@
-Repository for cloud computing CD 6620 
+Repository for cloud computing CS 6620 
